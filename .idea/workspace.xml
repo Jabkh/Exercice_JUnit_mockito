@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07f43f29-068f-4352-a8be-4f48d0950edc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="07f43f29-068f-4352-a8be-4f48d0950edc" name="Changes" comment="Classes faites et méthodes de tests implémentées">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Jabkh"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Jabkh/Exercice_JUnit_mockito",
+    "accountId": "1274ca29-03c1-428c-b890-0ac8361c246e"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
   <component name="KubernetesApiProvider"><![CDATA[{
   "isMigrated": true
@@ -79,12 +87,25 @@
       <updated>1712648316030</updated>
       <workItem from="1712648317089" duration="86000" />
       <workItem from="1717574406754" duration="1572000" />
-      <workItem from="1717575987245" duration="811000" />
+      <workItem from="1717575987245" duration="2088000" />
     </task>
+    <task id="LOCAL-00001" summary="Classes faites et méthodes de tests implémentées">
+      <option name="closed" value="true" />
+      <created>1717577015790</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717577015790</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classes faites et méthodes de tests implémentées" />
+    <option name="LAST_COMMIT_MESSAGE" value="Classes faites et méthodes de tests implémentées" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
